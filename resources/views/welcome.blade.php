@@ -194,10 +194,10 @@
       menarik, berkolaborasi, dan menghadirkan ide kreatif.
     </p>
     <div class="hero-socials fade-in delay-4">
-      <a href="#" title="Instagram">📸</a>
+      <a href="https://www.instagram.com/krnniaputrii_/" target="_blank" rel="noreferrer noopener" title="Instagram">📸</a>
       <a href="#" title="TikTok">🎵</a>
       <a href="#" title="YouTube">▶️</a>
-      <a href="#" title="Email">✉️</a>
+      <a href="mailto:karennia.putribaginda@gmail.com" title="Email">✉️</a>
     </div>
   </div>
   <div class="hero-photo fade-in delay-2">
