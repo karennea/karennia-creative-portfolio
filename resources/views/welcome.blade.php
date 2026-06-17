@@ -197,7 +197,7 @@
       <a href="https://www.instagram.com/krnniaputrii_/" target="_blank" rel="noreferrer noopener" title="Instagram">📸</a>
       <a href="#" title="TikTok">🎵</a>
       <a href="#" title="YouTube">▶️</a>
-      <a href="mailto:karennia.putribaginda@gmail.com" title="Email">✉️</a>
+      <a href="https://mail.google.com/mail/?view=cm&fs=1&to=karennia.putribaginda@gmail.com&su=Halo%20Karennia&body=Hallo%20Karennia%2C%0A%0ASaya%20ingin%20menghubungi%20Anda%20melalui%20portofolio%20Anda." target="_blank" rel="noreferrer noopener" title="Email">✉️</a>
     </div>
   </div>
   <div class="hero-photo fade-in delay-2">
