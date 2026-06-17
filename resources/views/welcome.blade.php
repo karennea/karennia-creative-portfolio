@@ -205,7 +205,7 @@
     <div class="hero-photo-frame">
       <div class="photo-dots"><span></span><span></span><span></span></div>
       <div class="photo-circle">
-        <div class="photo-placeholder">🧕</div>
+        <img src="{{ asset('images/profile.jpg') }}" alt="Karennia Putri Baginda" style="width: 100%; height: 100%; object-fit: cover; border-radius: 12px 12px 0 0;">
       </div>
     </div>
     <span class="deco-bolt">⚡</span>
@@ -273,40 +273,39 @@
   <div class="project-grid">
     <div class="project-card fade-in delay-1">
       <div class="project-img">
-        <div class="project-img-inner branding">🍃</div>
-        <span class="project-badge badge-branding">Branding</span>
+        <div class="project-img-inner branding">📣</div>
+        <span class="project-badge badge-branding">Public Relations</span>
         <div class="card-dots-top"><span></span><span></span><span></span></div>
       </div>
       <div class="project-body">
-        <p class="project-name">Packaging Tea Brand</p>
-        <p class="project-desc">Desain kemasan untuk brand teh herbal lokal.</p>
+        <p class="project-name">Public Relations Staff</p>
+        <p class="project-desc">NextGen Creators (2024)
+          Mengelola alur komunikasi kepada pihak kampus untuk meningkatkan kelancaran acara.</p>
         <a class="btn-detail btn-yellow" href="#">Lihat Detail →</a>
       </div>
     </div>
     <div class="project-card fade-in delay-2">
       <div class="project-img">
-        <div class="project-img-inner event">
-          <div class="event-title">MUSIC<br>FEST</div>
-          <div class="event-sub">LIVE MUSIC · FREEDOM · FUN</div>
-        </div>
-        <span class="project-badge badge-event">Event</span>
+        <div class="project-img-inner event">🎬</div>
+        <span class="project-badge badge-event">Multimedia Production</span>
         <div class="card-dots-top"><span></span><span></span><span></span></div>
       </div>
       <div class="project-body">
-        <p class="project-name">Poster Event Music</p>
-        <p class="project-desc">Desain poster untuk acara musik tahunan.</p>
+        <p class="project-name">Sesani Short Movie Project</p>
+        <p class="project-desc">Wardrobe • MUA Assistant • Production Finance (2025)
+          Mendukung produksi film melalui koordinasi, dokumentasi, dan administrasi proyek.</p>
         <a class="btn-detail btn-pink" href="#">Lihat Detail →</a>
       </div>
     </div>
     <div class="project-card fade-in delay-3">
       <div class="project-img">
-        <div class="project-img-inner uiux">📱</div>
-        <span class="project-badge badge-uiux">UI/UX</span>
+        <div class="project-img-inner uiux">📡</div>
+        <span class="project-badge badge-uiux">Organizational Experience</span>
         <div class="card-dots-top"><span></span><span></span><span></span></div>
       </div>
       <div class="project-body">
-        <p class="project-name">UI/UX Mobile App</p>
-        <p class="project-desc">Desain antarmuka aplikasi keuangan.</p>
+        <p class="project-name">Multimedia & Broadcasting Association</p>
+        <p class="project-desc">Mengembangkan keterampilan komunikasi, kolaborasi, dan profesionalisme di bidang multimedia.</p>
         <a class="btn-detail btn-blue" href="#">Lihat Detail →</a>
       </div>
     </div>
