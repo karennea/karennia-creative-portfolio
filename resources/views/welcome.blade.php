@@ -195,8 +195,8 @@
     </p>
     <div class="hero-socials fade-in delay-4">
       <a href="https://www.instagram.com/krnniaputrii_/" target="_blank" rel="noreferrer noopener" title="Instagram">📸</a>
-      <a href="#" title="TikTok">🎵</a>
-      <a href="#" title="YouTube">▶️</a>
+      <a href="https://drive.google.com/drive/folders/14wh2AJLEk2S9rjiRosrnC6iCl_AhusuL?usp=drive_link" target="_blank" rel="noreferrer noopener" title="TikTok">🎵</a>
+      <a href="https://drive.google.com/drive/folders/14wh2AJLEk2S9rjiRosrnC6iCl_AhusuL?usp=drive_link" target="_blank" rel="noreferrer noopener" title="YouTube">▶️</a>
       <a href="https://mail.google.com/mail/?view=cm&fs=1&to=karennia.putribaginda@gmail.com&su=Halo%20Karennia&body=Hallo%20Karennia%2C%0A%0ASaya%20ingin%20menghubungi%20Anda%20melalui%20portofolio%20Anda." target="_blank" rel="noreferrer noopener" title="Email">✉️</a>
     </div>
   </div>
