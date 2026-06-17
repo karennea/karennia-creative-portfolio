@@ -64,4 +64,30 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
-"# karennia-creative-portfolio" 
+
+## Deployment
+
+This project is ready to deploy with Docker. To host it publicly, use a Docker-compatible PHP host such as Render, Railway, or a VPS.
+
+### Recommended steps
+
+1. Connect this GitHub repository to your hosting service.
+2. Use the included `Dockerfile` to build the app.
+3. Set environment variables on the host:
+   - `APP_ENV=production`
+   - `APP_DEBUG=false`
+   - `APP_URL=https://your-domain-or-host-url`
+   - `APP_KEY` (generate or set from your host dashboard)
+   - `DB_CONNECTION=sqlite`
+4. If your host supports `ENTRYPOINT`, the app will generate an `APP_KEY` automatically if one is not set.
+
+### Quick local test
+
+```bash
+docker build -t karennia-portfolio .
+docker run -p 8000:80 karennia-portfolio
+```
+
+Then open `http://127.0.0.1:8000`.
+
+"# karennia-creative-portfolio"
